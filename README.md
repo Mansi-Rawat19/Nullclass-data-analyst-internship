@@ -1,7 +1,7 @@
 📊 Twitter Data Analysis – Power BI
 🔹 Overview
 
-This repository contains my Twitter Data Analysis Project completed during my Data Analyst Internship at NullClass. The project focuses on analyzing tweet-level data to identify engagement patterns, visualize key metrics, and generate actionable insights using Power BI.
+This repository contains my Twitter Data Analysis Project or Tasks completed during my Data Analyst Internship at NullClass. The project focuses on analyzing tweet-level data to identify engagement patterns, visualize key metrics, and generate actionable insights using Power BI.
 
 
 🔹 Objectives
